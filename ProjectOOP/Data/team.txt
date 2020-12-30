@@ -1,0 +1,55 @@
+Azumarill @ Choice Band  
+Ability: Thick Fat  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Aqua Tail  
+- Play Rough  
+- Superpower  
+- Aqua Jet  
+
+Bisharp @ Choice Band  
+Ability: Defiant  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Knock Off  
+- Iron Head  
+- X-Scissor  
+- Sucker Punch  
+
+Dragonite @ Choice Band  
+Ability: Multiscale  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Outrage  
+- Extreme Speed  
+- Earthquake  
+- Fire Punch  
+
+Garchomp @ Choice Band  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Earthquake  
+- Poison Jab  
+- Stone Edge  
+
+Landorus-Therian @ Choice Band  
+Ability: Intimidate  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Earthquake  
+- Knock Off  
+- Stone Edge  
+- Superpower  
+
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+- Overheat  
+- Air Slash  
+- Solar Beam  
+- Roost  
+
+
